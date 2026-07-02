@@ -8,5 +8,5 @@
 
 ###### Calculations:
 * Light: 299,792,458 m / 2,450,000,000 Hz = 0.013 m wave size
-* Sound: 343 m / 0.013 = 2,803.20366133 hertz
+* Sound: 343 m / 0.013 = 26,384.615 hertz
 * Sanity: 343 m /  26,384.615 Hz = 0.013 m wave size
